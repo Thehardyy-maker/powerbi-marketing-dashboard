@@ -50,16 +50,20 @@ The dashboard provides insights into:
 ## Screenshots
 
 ### Executive Summary
-![Executive Summary](screenshots/executive-summary.png)
+<img width="1307" height="736" alt="executive-summary" src="https://github.com/user-attachments/assets/a0e76775-6c87-4b74-bdc3-e3ebfb8c65c5" />
+
 
 ### Campaign Performance
-![Campaign Performance](screenshots/campaign-performance.png)
+<img width="1310" height="737" alt="campaign-performance" src="https://github.com/user-attachments/assets/7c169a7b-cea7-495e-833e-48e07fceeb7e" />
+
 
 ### Geographic Analysis
-![Geographic Analysis](screenshots/geographic-analysis.png)
+<img width="1308" height="736" alt="geographic-analysis" src="https://github.com/user-attachments/assets/d3f3959a-1ae4-4ed7-9c02-06c02a5416f1" />
+
 
 ### Executive Insights
-![Executive Insights](screenshots/executive-insights.png)
+<img width="1307" height="738" alt="executive insights" src="https://github.com/user-attachments/assets/c6abd86a-41d1-4168-b7e8-53ab1ec1068a" />
+
 
 ---
 
